@@ -7,7 +7,7 @@ The Exploratory Data Analytics (EDA) section of this repository is where our tea
 ## Machine Learning
 The Machine Learning process team Valkyrie used can be summarized in the flow chart at the bottom of this section. The process starts with the FAA sending us .csv files from the RoaR simulator. From there we ingest and process the data to our notebooks. Once we have the data formated the way we want it we balance our classes and train our models. Models are tuned based on their test/validation scores and eventually output a prediction. 
 
-Machine Learning Algorithms Used: Decision Tree, SVM, XGBoost, Logistic Regression, Neural Network
+**Machine Learning Algorithms Used:** Decision Tree, SVM, XGBoost, Logistic Regression, Neural Network
 
 For more details on our machine learning process feel free to inspect the code or read the Machine Learning section in our Project Report. 
 
