@@ -16,4 +16,5 @@ For more details on our machine learning process feel free to inspect the code o
 ### Decision Tree
 Decision Tree uses the team’s selected ROAR file variables combined with flight logs to predict which maneuver is being performed (surface taxi, hover taxi, or quick stop). Decision trees are useful because they can handle multi-class classification, are visually easy to interpret by those unfamiliar with machine learning, and they can handle null values (although that does not apply in our case).
 
-
+### Support Vector Machine (SVM)
+The Support Vector Machine algorithm is being used to leverage linear separable relationships to classify our maneuvers. In a SVM model, a hyperplane is fitted in between the fields of the data. The data points closest to this hyperplane are called the support vectors. The patterns in the data that are revealed by the hyperplane are what is used to make classifications. 
