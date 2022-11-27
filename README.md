@@ -11,3 +11,7 @@ For more details on our machine learning process feel free to inspect the code o
 
 ![image](https://user-images.githubusercontent.com/71101663/204165475-c6eaef49-b459-481f-9e41-d51f73596038.png)
 
+### Decision Tree
+Decision Tree uses the team’s selected ROAR file variables combined with flight logs to predict which maneuver is being performed (surface taxi, hover taxi, or quick stop). Decision trees are useful because they can handle multi-class classification, are visually easy to interpret by those unfamiliar with machine learning, and they can handle null values (although that does not apply in our case).
+
+
